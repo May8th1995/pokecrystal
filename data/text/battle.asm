@@ -15,7 +15,7 @@ WildPokemonAppearedText:
 	prompt
 
 HookedPokemonAttackedText:
-	text "The hooked"
+	text "The hqoked"
 	line "@"
 	text_ram wEnemyMonNickname
 	text_start
